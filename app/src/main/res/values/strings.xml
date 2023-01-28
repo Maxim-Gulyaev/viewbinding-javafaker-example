@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewBinding 2801</string>
+    <string name="new_quote">new quote</string>
+    <string name="primary_text">press button for new quote</string>
+</resources>
